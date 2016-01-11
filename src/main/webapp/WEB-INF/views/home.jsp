@@ -9,7 +9,7 @@
 <head>
 
 <%@ include file="include/header.jsp"%>
-<title>Clean Blog</title>
+<title>Yikui's Blog</title>
 
 </head>
 
@@ -25,12 +25,11 @@
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 					<div class="site-heading">
-						<img src="resources/img/post-sample-image.jpg" height="120"
+						<img src="resources/img/avatar.jpg" height="120"
 							width="120" class="img-circle">
-						<h2>陈逸逵的Blog</h2>
+						<h3>Yikui's Blog</h3>
 						<hr class="small">
-<!-- 						<span class="subheading">A Clean Blog Theme by Start -->
-<!-- 							Bootstrap</span> -->
+						<span class="subheading">What doesn't kill you,make you stronger</span>
 					</div>
 				</div>
 			</div>
